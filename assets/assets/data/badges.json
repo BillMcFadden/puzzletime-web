@@ -1,0 +1,403 @@
+[
+  {
+    "id": "first_puzzle",
+    "name": "First Puzzle",
+    "description": "Log your first completed puzzle.",
+    "category": "Milestones",
+    "icon": "badge_puzzle_1",
+    "target" : 1
+  },
+  {
+    "id": "ten_puzzles",
+    "name": "10 Puzzles",
+    "description": "Complete 10 puzzle entries.",
+    "category": "Milestones",
+    "icon": "badge_puzzle_10",
+    "target" : 10
+  },
+  {
+    "id": "puzzles3",
+    "name": "25 Puzzles",
+    "description": "Complete 25 puzzle entries.",
+    "category": "Milestones",
+    "icon": "badge_puzzle_25",
+    "target" : 25
+  },
+  {
+    "id": "puzzles4",
+    "name": "50 Puzzles",
+    "description": "Complete 50 puzzle entries.",
+    "category": "Milestones",
+    "icon": "badge_puzzle_50",
+    "target" : 50
+  },
+  {
+    "id": "puzzles5",
+    "name": "100 Puzzles",
+    "description": "Complete 100 puzzle entries.",
+    "category": "Milestones",
+    "icon": "badge_puzzle_100",
+    "target" : 100
+  },
+  {
+    "id": "puzzles5",
+    "name": "200 Puzzles",
+    "description": "Complete 200 puzzle entries.",
+    "category": "Milestones",
+    "icon": "badge_puzzle_200",
+    "target" : 200
+  },
+  {
+    "id": "puzzles6",
+    "name": "300 Puzzles",
+    "description": "Complete 300 puzzle entries.",
+    "category": "Milestones",
+    "icon": "badge_puzzle_300",
+    "target" : 300
+  },
+
+  {
+    "id": "puzzles7",
+    "name": "400 Puzzles",
+    "description": "Complete 400 puzzle entries.",
+    "category": "Milestones",
+    "icon": "badge_puzzle_400",
+    "target" : 400
+  },
+  {
+    "id": "puzzles8",
+    "name": "500 Puzzles",
+    "description": "Complete 500 puzzle entries.",
+    "category": "Milestones",
+    "icon": "badge_puzzle_500",
+    "target" : 500
+  },
+  {
+    "id": "puzzles9",
+    "name": "1,000 Puzzles",
+    "description": "Complete 1,000 puzzle entries.",
+    "category": "Milestones",
+    "icon": "badge_puzzle_1k",
+    "target" : 1000
+  },
+    {
+    "id": "puzzles10",
+    "name": "2,000 Puzzles",
+    "description": "Complete 2,000 puzzle entries.",
+    "category": "Milestones",
+    "icon": "badge_puzzle_2k",
+    "target" : 2000
+  },
+    {
+    "id": "puzzles11",
+    "name": "3,000 Puzzles",
+    "description": "Complete 3,000 puzzle entries.",
+    "category": "Milestones",
+    "icon": "badge_puzzle_3k",
+    "target" : 3000
+  },
+  {
+    "id": "speed1",
+    "name": "500 Under 90 Minutes",
+    "description": "Finish a 500-piece puzzle under 90 minutes.",
+    "category": "Speed500",
+    "icon": "badge_time_500_90",
+    "target" : 90,
+    "type" : "time"
+  },  
+  {
+    "id": "speed2",
+    "name": "500 Under 60 Minutes",
+    "description": "Finish a 500-piece puzzle under 60 minutes.",
+    "category": "Speed500",
+    "icon": "badge_time_500_60",
+    "target" : 60,
+    "type" : "time"
+  },
+    {
+    "id": "speed3",
+    "name": "500 Under 50 Minutes",
+    "description": "Finish a 500-piece puzzle under 50 minutes.",
+    "category": "Speed500",
+    "icon": "badge_time_500_50",
+    "target" : 50,
+    "type" : "time"
+  },
+  {
+    "id": "speed4",
+    "name": "500 Under 45 Minutes",
+    "description": "Finish a 500-piece puzzle under 45 minutes.",
+    "category": "Speed500",
+    "icon": "badge_time_500_45",
+    "target" : 45,
+    "type" : "time"
+  },
+  {
+    "id": "speed5",
+    "name": "500 Under 40 Minutes",
+    "description": "Finish a 500-piece puzzle under 40 minutes.",
+    "category": "Speed500",
+    "icon": "badge_time_500_40",
+    "target" : 40,
+    "type" : "time"
+  },
+   {
+    "id": "speed300_1",
+    "name": "300 Under 45 Minutes",
+    "description": "Finish a 300-piece puzzle 45 minutes.",
+    "category": "Speed300",
+    "icon": "badge_time_300_45",
+    "target" : 45,
+    "type" : "time"
+  },  
+    {
+    "id": "speed300_2",
+    "name": "300 Under 40 Minutes",
+    "description": "Finish a 300-piece puzzle under 40 minutes.",
+    "category": "Speed300",
+    "icon": "badge_time_300_40",
+    "target" : 40,
+    "type" : "time"
+  },
+    {
+    "id": "speed300_3",
+    "name": "300 Under 35 Minutes",
+    "description": "Finish a 300-piece puzzle under 35 minutes.",
+    "category": "Speed300",
+    "icon": "badge_time_300_35",
+    "target" : 35,
+    "type" : "time"
+  },
+  {
+    "id": "speed300_4",
+    "name": "300 Under 30 Minutes",
+    "description": "Finish a 300-piece puzzle under 30 minutes.",
+    "category": "Speed300",
+    "icon": "badge_time_300_30",
+    "target" : 30,
+    "type" : "time"
+  },
+  {
+    "id": "speed300_5",
+    "name": "300 Under 25 Minutes",
+    "description": "Finish a 300-piece puzzle under 25 minutes.",
+    "category": "Speed300",
+    "icon": "badge_time_300_25",
+    "target" : 25,
+    "type" : "time"
+  },
+  {
+    "id": "speed300_6",
+    "name": "300 Under 20 Minutes",
+    "description": "Finish a 300-piece puzzle under 20 minutes.",
+    "category": "Speed300",
+    "icon": "badge_time_300_20",
+    "target" : 20,
+    "type" : "time"
+  },
+  {
+    "id": "speed300_7",
+    "name": "300 Under 15 Minutes",
+    "description": "Finish a 300-piece puzzle under 15 minutes.",
+    "category": "Speed300",
+    "icon": "badge_time_300_15",
+    "target" : 15,
+    "type" : "time"
+  },
+  {
+    "id": "piece1",
+    "name": "1k Pieces",
+    "description": "Complete 1,000 total pieces.",
+    "category": "Pieces",
+    "icon": "badge_pieces_1k",
+    "target" : 1000
+  },
+    {
+    "id": "piece2",
+    "name": "5k Pieces",
+    "description": "Complete 5,000 total pieces.",
+    "category": "Pieces",
+    "icon": "badge_pieces_5k",
+    "target" : 5000
+  },
+  {
+    "id": "piece2",
+    "name": "10k Pieces",
+    "description": "Complete 10,000 total pieces.",
+    "category": "Pieces",
+    "icon": "badge_pieces_10k",
+    "target" : 10000
+  },
+  {
+    "id": "piece3",
+    "name": "20k Pieces",
+    "description": "Complete 20,000 total pieces.",
+    "category": "Pieces",
+    "icon": "badge_pieces_20k",
+    "target" : 20000
+  },
+  {
+    "id": "piece4",
+    "name": "50k Pieces",
+    "description": "Complete 50,000 total pieces.",
+    "category": "Pieces",
+    "icon": "badge_pieces_50k",
+    "target" : 50000
+  },
+  {
+    "id": "piece5",
+    "name": "100k Pieces",
+    "description": "Complete 100,000 total pieces.",
+    "category": "Pieces",
+    "icon": "badge_pieces_100k",
+    "target" : 100000
+  },
+  {
+    "id": "piece6",
+    "name": "250k Pieces",
+    "description": "Complete 250,000 total pieces.",
+    "category": "Pieces",
+    "icon": "badge_pieces_250k",
+    "target" : 250000
+  },
+  {
+    "id": "brand1",
+    "name": "Solve 5 Brands",
+    "description": "Complete puzzles from 5 different brands.",
+    "category": "Brands",
+    "icon": "badge_brand_5",
+    "target" : 5
+  },  
+  {
+    "id": "brand2",
+    "name": "Solve 10 Brands",
+    "description": "Complete puzzles from 10 different brands.",
+    "category": "Brands",
+    "icon": "badge_brand_10",
+    "target" : 10
+  },  
+   {
+    "id": "brand3",
+    "name": "Solve 15 Brands",
+    "description": "Complete puzzles from 15 different brands.",
+    "category": "Brands",
+    "icon": "badge_brand_15",
+    "target" : 15
+  },  
+   {
+    "id": "brand4",
+    "name": "Solve 20 Brands",
+    "description": "Complete puzzles from 20 different brands.",
+    "category": "Brands",
+    "icon": "badge_brand_20",
+    "target" : 20
+  },  
+  {
+    "id": "brand5",
+    "name": "Solve 25 Brands",
+    "description": "Complete puzzles from 25 different brands.",
+    "category": "Brands",
+    "icon": "badge_brand_25",
+    "target" : 25
+  },  
+  {
+    "id": "time1",
+    "name": "Puzzle for 10 Hours",
+    "description": "Puzzle for 10 Hours.",
+    "category": "Time",
+    "icon": "badge_time_10",
+    "target" : 600
+  },
+  {
+    "id": "time2",
+    "name": "Puzzle for 25 Hours",
+    "description": "Puzzle for 25 Hours.",
+    "category": "Time",
+    "icon": "badge_time_25",
+    "target" : 1500
+  },
+  {
+    "id": "time3",
+    "name": "Puzzle for 50 Hours",
+    "description": "Puzzle for 50 Hours.",
+    "category": "Time",
+    "icon": "badge_time_50",
+    "target" : 3000
+  },
+  {
+    "id": "time4",
+    "name": "Puzzle for 100 Hours",
+    "description": "Puzzle for 100 Hours.",
+    "category": "Time",
+    "icon": "badge_time_100",
+    "target" : 6000
+  },
+  {
+    "id": "podium_finish",
+    "name": "Podium Finish",
+    "description": "Record a top 3 placement in an event.",
+    "category": "Competition",
+    "icon": "generic_badge"
+  },
+  {
+    "id": "public_challenge_bronze",
+    "name": "Challenge Bronze",
+    "description": "Place 3rd in a public challenge.",
+    "category": "Challenges",
+    "icon": "badge_challenge_bronze"
+  },
+  {
+    "id": "public_challenge_silver",
+    "name": "Challenge Silver",
+    "description": "Place 2nd in a public challenge.",
+    "category": "Challenges",
+    "icon": "badge_challenge_silver"
+  },
+  {
+    "id": "public_challenge_gold",
+    "name": "Challenge Gold",
+    "description": "Place 1st in a public challenge.",
+    "category": "Challenges",
+    "icon": "badge_challenge_gold"
+  },
+  {
+    "id": "friend1",
+    "name": "Make a Friend",
+    "description": "Make a Friend.",
+    "category": "Friends",
+    "icon": "badge_friend_1",
+    "target" : 1
+  },
+  {
+    "id": "friend2",
+    "name": "Make 5 Friends",
+    "description": "Make 5 Friends.",
+    "category": "Friends",
+    "icon": "badge_friend_2",
+    "target" : 5
+  },
+  {
+    "id": "friend3",
+    "name": "Make 10 Friends",
+    "description": "Make 10 Friends.",
+    "category": "Friends",
+    "icon": "badge_friend_10",
+    "target" : 10
+  },
+  {
+    "id": "friend4",
+    "name": "Make 20 Friends",
+    "description": "Make 20 Friends.",
+    "category": "Friends",
+    "icon": "badge_friend_20",
+    "target" : 20
+  },
+  {
+    "id": "friend5",
+    "name": "Make 100 Friends",
+    "description": "Make 100 Friends.",
+    "category": "Friends",
+    "icon": "badge_friend_100",
+    "target" : 100
+  }
+]
